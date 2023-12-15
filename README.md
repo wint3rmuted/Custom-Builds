@@ -7,9 +7,16 @@ A gallery of some of my custom builds.
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBP/GBP1.jpeg)
 
+![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBP/GBP7.jpeg)
+
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBC/GCB-led4.jpeg)
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBC/GBC-led-magnetic-charger.jpeg)
 
-![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBC/GBC-led2.jpeg)
+![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBP/GBP8.jpeg)
+
+![](https://github.com/wint3rmuted/Custom-Builds/blob/main/LED-catridge/led-catridge2.jpeg)
+
+
+
 
