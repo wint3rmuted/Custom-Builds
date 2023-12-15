@@ -29,7 +29,7 @@ A gallery of some of my custom builds.
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/DMG-103/teal-backlight.jpeg)
 
-
+![](https://github.com/wint3rmuted/Custom-Builds/blob/main/2DS/Resized_Resized_20210705_134652.jpeg)
 
 
 
