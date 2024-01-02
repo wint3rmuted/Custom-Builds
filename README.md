@@ -1,7 +1,7 @@
 # Retro-Gaming-Mods
 A gallery of some of my custom builds. 
 
-## DMG 103 / Dsi x GB Mashup / Custom Bumper Triggers / Full Tactile Switch Upgrade / Gold 3.5mm Headphone Jack Upgrade / External Antenna Upgrade
+## DMG 103 / Dsi x GB Mashup / Custom Bumper Triggers / Full Tactile Switch Upgrade / Gold 3.5mm Headphone Jack Upgrade / External Antenna Upgrade (Clear/Purple)
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/DMG-103/Resized_Resized_20211030_224811(1).jpeg)
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/DMG-103/Resized_Resized_20211030_224736(2).jpeg)
@@ -10,7 +10,7 @@ A gallery of some of my custom builds.
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/DMG-103/Resized_Resized_20211030_201457(2).jpeg)
 
-## GBP Refurbishment / Battery Upgrade / Clear/gold
+## GBP Refurbishment / Battery Upgrade (Clear/Gold)
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBP/GBP.jpeg)
 
@@ -24,17 +24,17 @@ A gallery of some of my custom builds.
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/LED-catridge/led-catridge2.jpeg)
 
-## GBC Refurbishment / Retrobrite / LED Upgrade / Neon-Orange
+## GBC Refurbishment / Retrobrite / LED Upgrade (Neon-Orange)
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBC/GCB-led4.jpeg)
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBC/GBC-led2.jpeg)
 
-## GBC Refurbishment / Retrobrite / Battery Upgrade / Magnetic USBC Charger / Silver 3.5mm Headphone Jack Upgrade / Ivory
+## GBC Refurbishment / Retrobrite / Battery Upgrade / Magnetic USBC Charger / Silver 3.5mm Headphone Jack Upgrade (Ivory)
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBC/GBC-led-magnetic-charger.jpeg)
 
-## GBP LED (Coyote Tan Inside / Purple Shell)
+## GBP LED Upgrade (Coyote Tan Inside / Purple Shell)
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBP/GBP8.jpeg)
 
