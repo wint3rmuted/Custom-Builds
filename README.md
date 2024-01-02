@@ -10,6 +10,8 @@ A gallery of some of my custom builds.
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/DMG-103/Resized_Resized_20211030_201457(2).jpeg)
 
+## GBP Refurbish and Battery Upgrade
+
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBP/GBP.jpeg)
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBP/GBP1.jpeg)
