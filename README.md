@@ -1,12 +1,7 @@
 # Retro-Gaming-Mods
 A gallery of some of my custom builds. 
 
-## DMG 103
-## Dsi x GB Mashup 
-## Custom Bumper Triggers
-## Full Tactile switch Upgrade
-## Gold 3.5mm Headphone Jack Upgrade
-## External Antenna Upgrade
+## DMG 103 / Dsi x GB Mashup / Custom Bumper Triggers / Full Tactile Switch Upgrade / Gold 3.5mm Headphone Jack Upgrade / External Antenna Upgrade
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/DMG-103/Resized_Resized_20211030_224811(1).jpeg)
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/DMG-103/Resized_Resized_20211030_224736(2).jpeg)
