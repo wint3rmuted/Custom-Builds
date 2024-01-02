@@ -30,7 +30,7 @@ A gallery of some of my custom builds.
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBC/GBC-led2.jpeg)
 
-## GBC Refurbishment / Retrobrite / Magnetic USB C Charger / Silver 3.5mm Headphone Jack Upgrade / Ivory
+## GBC Refurbishment / Retrobrite / Battery Upgrade / Magnetic USBC Charger / Silver 3.5mm Headphone Jack Upgrade / Ivory
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBC/GBC-led-magnetic-charger.jpeg)
 
