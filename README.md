@@ -24,13 +24,13 @@ A gallery of some of my custom builds.
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/LED-catridge/led-catridge2.jpeg)
 
-## GBC Refurbishment / Retrobrite / LED Upgrade
+## GBC Refurbishment / Retrobrite / LED Upgrade / Neon-Orange
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBC/GCB-led4.jpeg)
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBC/GBC-led2.jpeg)
 
-## GBC Refurbishment / Retrobrite / Magnetic USB C Charger / Silver 3.5mm Headphone Jack Upgrade
+## GBC Refurbishment / Retrobrite / Magnetic USB C Charger / Silver 3.5mm Headphone Jack Upgrade / Ivory
 
 ![](https://github.com/wint3rmuted/Custom-Builds/blob/main/GBC/GBC-led-magnetic-charger.jpeg)
 
